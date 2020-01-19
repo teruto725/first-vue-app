@@ -25,7 +25,7 @@ export default {
 <style>
 
 body {
-  background-image: url("./assets/siege.jpg");
+  background-image: url("~@/assets/siege.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
